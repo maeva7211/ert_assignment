@@ -1,0 +1,6 @@
+include HISTORY.rst
+include README.rst
+
+graft swpc_monitoring
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
