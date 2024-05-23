@@ -1,0 +1,5 @@
+ipympl
+jupyterlab
+matplotlib
+numpy
+scipy
